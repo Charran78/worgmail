@@ -5,6 +5,15 @@
 **Modelos Compatibles:** Qwen2.5-0.5B / Qwen2.5-1.5B (GGUF Q8_0)
 
 ---
+# Manual Completo de Configuración, Seguridad y Ejecución
+
+**Sistema Objetivo:** Windows 10/11  
+**Hardware Optimizado:** Intel i5 (4 núcleos), 12 GB RAM, 2 GB VRAM (GPU NVIDIA/AMD)  
+**Modelos Compatibles:** Qwen2.5-0.5B / Qwen2.5-1.5B (GGUF Q8_0)
+
+![Resultado del Clasificador](imagenes/output.png)
+
+---
 
 ## 📋 Índice
 1. [Arquitectura del Sistema](#1-arquitectura-del-sistema)
