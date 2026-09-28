@@ -1,0 +1,5 @@
+.env
+cache_emails.db
+__pycache__/
+venv/
+ignore/
