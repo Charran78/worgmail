@@ -11,6 +11,7 @@
 **Hardware Optimizado:** Intel i5 (4 núcleos), 12 GB RAM, 2 GB VRAM (GPU NVIDIA/AMD)  
 **Modelos Compatibles:** Qwen2.5-0.5B / Qwen2.5-1.5B (GGUF Q8_0)
 
+![Carátula del Clasificador](imagenes/clasif.png)
 ![Resultado del Clasificador](imagenes/output.png)
 
 ---
